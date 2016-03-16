@@ -102,7 +102,7 @@ div.comunidad-autoria
 {
   border-bottom: solid 1px white;
   background: black;
-  border-top: solid 1px white;
+  border-top: solid 5px rgb(71, 183, 13);
   padding: 3% 0;
   margin: 12% 0;
 }
